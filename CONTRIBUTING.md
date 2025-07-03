@@ -5,8 +5,8 @@ A comercial landing page for an application that seeks freelancers for occasiona
 ## 📁 Project Structure & Conventions
 
 - All HTML files are in the root or organized in folders with `index.html` to allow clean URLs (e.g., `/about/index.html` → `/about/`).
-- All JS are inside `/src/js/`.
-- The pages stylize may to be Tailwind CSS. Any most complexity, put inside `/src/css/`.
+- All JS are inside `/src/scripts/`.
+- The pages stylize may to be Tailwind CSS. Any most complexity, put inside `/src/styles/`.
 
 ## 📝 File Naming
 
